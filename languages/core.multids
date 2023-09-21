@@ -50,3 +50,5 @@ lastdue: 到期
 lastreview: 复习
 pluginlibrary: 墨屉插件库
 pluginlibrarytip: 可以用此插件库安装和更新墨屉相关插件。
+deckslibrary: 共享牌组插件库
+deckslibrarytip:  可以用此插件库安装和更新共享牌组。
