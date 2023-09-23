@@ -33,7 +33,7 @@ param: 参数
 fsrsparam: [[FSRS 算法|https://github.com/open-spaced-repetition/fsrs.js#usage]]
 exportdelete: 导出或删除
 getshared: 获取牌组
-getsharedturl: https://oflg.github.io/Tidme/manual/zh-Hans#获取牌组
+getsharedurl: https://oflg.github.io/Tidme/manual/zh-Hans#获取牌组
 createdeck: 创建牌组
 importfile: 导入文件
 startstudy: 开始学习
