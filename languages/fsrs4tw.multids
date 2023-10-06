@@ -43,6 +43,8 @@ good: 良好
 easy: 简单
 next: 下一个
 stopstudy: 结束学习
+type: 打字题
+typetip: 插入打字题的编辑器（用法请参阅手册）
 cloze: 填空题
 clozetip: 将所选文本设置为填空题的挖空（用法请参阅手册）
 select: 选择题
