@@ -3,7 +3,7 @@ title: $:/language/tidme/
 tidme: 墨屉
 tidmetip: 终身知识，深入脑海
 default: 默认
-descriptioncontent: <center>默认牌组，也是创建牌组的模板。</center>
+descriptioncontent: <center>此为不可自定义的默认牌组，可通过''{{$:/language/tidme/createdeck}}''进行自定义。</center>
 deck: 牌组
 learn: 学习中
 due: 待复习
