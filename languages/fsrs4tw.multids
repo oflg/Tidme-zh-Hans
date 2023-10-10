@@ -25,7 +25,7 @@ excludecard: 排除卡片
 unfoldcard: 展开卡片
 leech: 记忆难点
 leechthreshold: 阈值
-leechaction: 动作
+action: [[动作|https://zh-hans.tiddlyhost.com/#ActionWidgets]]
 expert: 专业
 experttip: 我已完全理解以下专业选项的含义，接受可能产生的破坏性后果。
 cardstatefilter: 卡片[[状态|https://github.com/open-spaced-repetition/fsrs.js#usage]]筛选器
