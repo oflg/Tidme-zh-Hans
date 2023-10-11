@@ -6,3 +6,9 @@ word: 标注单词
 wordtip: 标注选中的单词
 sentence: 摘录句子
 sentencetip: 摘录选中的句子
+twpub: TWPUB 书
+twpubtip: TWPUB 是一种基于 TiddlyWiki 的电子出版物
+importtwpub: 导入 TWPUB
+twpublibrary: TWPUB 书库
+twpublibrarytip: 可以用此插件库安装和更新TWPUB书。
+preview: 预览章节内容
