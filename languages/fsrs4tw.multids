@@ -23,8 +23,6 @@ exclude: 排除
 excludetip: 排除此卡片不再学习
 unfold: 展开
 unfoldtip: 学习时展开此卡片
-tomorrow: 明日
-tomorrowtip: 明日再学习此卡片
 leech: 记忆难点
 leechthreshold: 阈值
 action: [[动作|https://zh-hans.tiddlyhost.com/#ActionWidgets]]
