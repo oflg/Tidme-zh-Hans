@@ -21,8 +21,8 @@ random: 随机
 cardtypefilter: 卡片类型筛选器
 exclude: 排除
 excludetip: 排除此卡片不再学习
-unfold: 展开
-unfoldtip: 学习时展开此卡片
+unfold: 不折叠
+unfoldtip: 学习时不折叠此卡片
 leech: 记忆难点
 leechthreshold: 阈值
 action: [[动作|https://zh-hans.tiddlyhost.com/#ActionWidgets]]
