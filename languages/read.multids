@@ -2,6 +2,8 @@ title: $:/language/tidme/read/
 
 read: 阅读
 annotate: 标注
+close: 关闭弹窗
+closetip: 关闭此弹窗
 word: 标注单词
 wordtip: 标注选中的单词
 sentence: 摘录句子
