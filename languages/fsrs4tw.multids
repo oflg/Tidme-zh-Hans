@@ -1,57 +1,57 @@
 title: $:/language/tidme/
 
-tidme : boudoir
-tidmetip : Connaissance de longue date, au plus profond de l'esprit
-default : défaut
-defaulttip : <center>Il s'agit d'un deck par défaut non personnalisable, qui peut être personnalisé avec ''{{$:/language/tidme/createdeck}}''. </center>
-deck : jeu de cartes
-learn : apprendre
-due : à revoir
-new : nouveau
-options : options
-caption : Sous-titre
-cardfilter : Cartes [[filter|https://zh-hans.tiddlyhost.com/#Introduction%20to%20filter%20notation]]
-cardfiltertip : Filtrer les entrées pour les cartes de ce jeu.
-description : Description
-advanced : Avancé
-studyorder : Ordre d'étude
-cardstate : État de la carte
-displayorderfilter : filtre d'ordre d'affichage
-random : Aléatoire
-cardtypefilter : Filtre de type de carte
-exclude : Exclure
-excludetip : Exclure cette carte de toute étude ultérieure
-unfold : Ne pas plier
-unfoldtip : Ne pas plier cette carte lors de son étude
-leech : Difficulté de mémoire
-leechthreshold : Seuil
-action : [[action|https://zh-hans.tiddlyhost.com/#ActionWidgets]]
-expert : Expert
-experttip : Je comprends parfaitement la signification des options d'expert suivantes et j'en accepte les conséquences potentiellement dommageables.
-cardstatefilter : filtre de carte [[state|https://github.com/open-spaced-repetition/fsrs.js#usage]]
-param : Paramètres
-fsrsparam : [[Algorithme FSRS|https://github.com/open-spaced-repetition/fsrs.js#usage]]
-exportdelete : Exporter ou supprimer
-getshared : Obtenir un jeu de cartes
-createdeck : Créer un jeu de cartes
-createdecktip : Crée un nouveau deck en utilisant le deck par défaut comme modèle.
-importfile : Importer un fichier
-startstudy : Commencer à étudier
-next : Suivant
-again : recommencer
-hard : difficile
-good : bien
-easy : simple
+tidme: Tidme
+tidmetip: Connaissance de longue date, au plus profond de l'esprit
+default: défaut
+defaulttip: <center>Il s'agit d'un deck par défaut non personnalisable, qui peut être personnalisé avec ''{{$:/language/tidme/createdeck}}''. </center>
+deck: jeu de cartes
+learn: apprendre
+due: à revoir
+new: nouveau
+options: options
+caption: Sous-titre
+cardfilter: Cartes [[filter|https://tiddlywiki.com/#Introduction%20to%20filter%20notation]]
+cardfiltertip: Filtrer les entrées pour les cartes de ce jeu.
+description: Description
+advanced: Avancé
+studyorder: Ordre d'étude
+cardstate: État de la carte
+displayorderfilter: filtre d'ordre d'affichage
+random: Aléatoire
+cardtypefilter: Filtre de type de carte
+exclude: Exclure
+excludetip: Exclure cette carte de toute étude ultérieure
+unfold: Ne pas plier
+unfoldtip: Ne pas plier cette carte lors de son étude
+leech: Difficulté de mémoire
+leechthreshold: Seuil
+action: [[action|https://tiddlywiki.com/#ActionWidgets]]
+expert: Expert
+experttip: Je comprends parfaitement la signification des options d'expert suivantes et j'en accepte les conséquences potentiellement dommageables.
+cardstatefilter: filtre de carte [[state|https://github.com/open-spaced-repetition/fsrs.js#usage]]
+param: Paramètres
+fsrsparam: [[Algorithme FSRS|https://github.com/open-spaced-repetition/fsrs.js#usage]]
+exportdelete: Exporter ou supprimer
+getshared: Obtenir un jeu de cartes
+createdeck: Créer un jeu de cartes
+createdecktip: Crée un nouveau deck en utilisant le deck par défaut comme modèle.
+importfile: Importer un fichier
+startstudy: Commencer à étudier
+next: Suivant
+again: recommencer
+hard: difficile
+good: bien
+easy: simple
 stopstudy: fin étude
-type : question dactylographiée
-typetip : éditeur pour insérer des questions dactylographiées (voir le manuel pour l'utilisation)
-cloze : Remplir les blancs
-clozetip : définit le texte sélectionné comme un cloze (voir le manuel pour l'utilisation)
-select : sélection d'une question
-selecttip : définit le texte sélectionné comme une option pour une question à choix multiple (voir le manuel pour l'utilisation).
-lastdue : Date d'échéance
-lastreview : Révision
-pluginlibrary : La bibliothèque de plugins pour les tiroirs.
-pluginlibrarytip : Cette bibliothèque de plugins peut être utilisée pour installer et mettre à jour les plugins relatifs aux tiroirs d'encre.
-deckslibrary : Bibliothèque partagée de plugins decks
-deckslibrarytip : Cette bibliothèque de plugins peut être utilisée pour installer et mettre à jour les decks partagés.
+type: question dactylographiée
+typetip: éditeur pour insérer des questions dactylographiées (voir le manuel pour l'utilisation)
+cloze: Remplir les blancs
+clozetip: définit le texte sélectionné comme un cloze (voir le manuel pour l'utilisation)
+select: sélection d'une question
+selecttip: définit le texte sélectionné comme une option pour une question à choix multiple (voir le manuel pour l'utilisation).
+lastdue: Date d'échéance
+lastreview: Révision
+pluginlibrary: La bibliothèque de plugins pour les tiroirs.
+pluginlibrarytip: Cette bibliothèque de plugins peut être utilisée pour installer et mettre à jour les plugins relatifs aux tiroirs d'encre.
+deckslibrary: Bibliothèque partagée de plugins decks
+deckslibrarytip: Cette bibliothèque de plugins peut être utilisée pour installer et mettre à jour les decks partagés.
