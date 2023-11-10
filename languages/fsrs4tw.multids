@@ -1,57 +1,57 @@
 title: $:/language/tidme/
 
-tidme: 墨屉
-tidmetip: 终身知识，深入脑海
-default: 默认
-defaulttip: <center>此为不可自定义的默认牌组，可通过''{{$:/language/tidme/createdeck}}''进行自定义。</center>
-deck: 牌组
-learn: 学习中
-due: 待复习
-new: 未学习
-options: 选项
-caption: 副标题
-cardfilter: 卡片[[筛选器|https://zh-hans.tiddlyhost.com/#Introduction%20to%20filter%20notation]]
-cardfiltertip: 筛选出条目作为此牌组中的卡片。
-description: 描述
-advanced: 高级
-studyorder: 学习顺序
-cardstate: 卡片状态
-displayorderfilter: 展示顺序筛选器
-random: 随机
-cardtypefilter: 卡片类型筛选器
-exclude: 排除
-excludetip: 排除此卡片不再学习
-unfold: 不折叠
-unfoldtip: 学习时不折叠此卡片
-leech: 记忆难点
-leechthreshold: 阈值
-action: [[动作|https://zh-hans.tiddlyhost.com/#ActionWidgets]]
-expert: 专业
-experttip: 我已完全理解以下专业选项的含义，接受可能产生的破坏性后果。
-cardstatefilter: 卡片[[状态|https://github.com/open-spaced-repetition/fsrs.js#usage]]筛选器
-param: 参数
-fsrsparam: [[FSRS 算法|https://github.com/open-spaced-repetition/fsrs.js#usage]]
-exportdelete: 导出或删除
-getshared: 获取牌组
-createdeck: 创建牌组
-createdecktip: 以默认牌组为模板创建一个新牌组
-importfile: 导入文件
-startstudy: 开始学习
-next: 下一个
-again: 重来
-hard: 困难
-good: 良好
-easy: 简单
-stopstudy: 结束学习
-type: 打字题
-typetip: 插入打字题的编辑器（用法请参阅手册）
-cloze: 填空题
-clozetip: 将所选文本设置为填空题的挖空（用法请参阅手册）
-select: 选择题
-selecttip: 将所选文本设置为选择题的选项（用法请参阅手册）
-lastdue: 到期
-lastreview: 复习
-pluginlibrary: 墨屉插件库
-pluginlibrarytip: 可以用此插件库安装和更新墨屉相关插件。
-deckslibrary: 共享牌组插件库
-deckslibrarytip:  可以用此插件库安装和更新共享牌组。
+tidme: Tidme
+tidmetip: Connaissance de longue date, au plus profond de l'esprit
+default: défaut
+defaulttip: <center>Il s'agit d'un deck par défaut non personnalisable, qui peut être personnalisé avec ''{{$:/language/tidme/createdeck}}''. </center>
+deck: jeu de cartes
+learn: apprendre
+due: à revoir
+new: nouveau
+options: options
+caption: Sous-titre
+cardfilter: Cartes [[filter|https://tiddlywiki.com/#Introduction%20to%20filter%20notation]]
+cardfiltertip: Filtrer les entrées pour les cartes de ce jeu.
+description: Description
+advanced: Avancé
+studyorder: Ordre d'étude
+cardstate: État de la carte
+displayorderfilter: filtre d'ordre d'affichage
+random: Aléatoire
+cardtypefilter: Filtre de type de carte
+exclude: Exclure
+excludetip: Exclure cette carte de toute étude ultérieure
+unfold: Ne pas plier
+unfoldtip: Ne pas plier cette carte lors de son étude
+leech: Difficulté de mémoire
+leechthreshold: Seuil
+action: [[action|https://tiddlywiki.com/#ActionWidgets]]
+expert: Expert
+experttip: Je comprends parfaitement la signification des options d'expert suivantes et j'en accepte les conséquences potentiellement dommageables.
+cardstatefilter: filtre de carte [[state|https://github.com/open-spaced-repetition/fsrs.js#usage]]
+param: Paramètres
+fsrsparam: [[Algorithme FSRS|https://github.com/open-spaced-repetition/fsrs.js#usage]]
+exportdelete: Exporter ou supprimer
+getshared: Obtenir un jeu de cartes
+createdeck: Créer un jeu de cartes
+createdecktip: Crée un nouveau deck en utilisant le deck par défaut comme modèle.
+importfile: Importer un fichier
+startstudy: Commencer à étudier
+next: Suivant
+again: recommencer
+hard: difficile
+good: bien
+easy: simple
+stopstudy: fin étude
+type: question dactylographiée
+typetip: éditeur pour insérer des questions dactylographiées (voir le manuel pour l'utilisation)
+cloze: Remplir les blancs
+clozetip: définit le texte sélectionné comme un cloze (voir le manuel pour l'utilisation)
+select: sélection d'une question
+selecttip: définit le texte sélectionné comme une option pour une question à choix multiple (voir le manuel pour l'utilisation).
+lastdue: Date d'échéance
+lastreview: Révision
+pluginlibrary: La bibliothèque de plugins pour les tiroirs.
+pluginlibrarytip: Cette bibliothèque de plugins peut être utilisée pour installer et mettre à jour les plugins relatifs aux tiroirs d'encre.
+deckslibrary: Bibliothèque partagée de plugins decks
+deckslibrarytip: Cette bibliothèque de plugins peut être utilisée pour installer et mettre à jour les decks partagés.

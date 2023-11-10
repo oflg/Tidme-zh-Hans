@@ -1,9 +1,9 @@
 {
-    "title": "$:/tidme/languages/zh-Hans",
+    "title": "$:/tidme/languages/fr-FR",
     "name": "Tidme Languages",
     "plugin-type": "plugin",
-    "description": "Chinese (Simplified)",
-	"dependents": "$:/plugins/tidme/fsrs4tw",
+    "description": "Français",
+    "dependents": "$:/plugins/tidme/fsrs4tw",
     "author": "oflg",
     "version": "1.4.6",
     "list": "readme license",

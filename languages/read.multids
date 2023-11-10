@@ -1,16 +1,16 @@
 title: $:/language/tidme/read/
 
-read: 阅读
-annotate: 标注
-close: 关闭弹窗
-closetip: 关闭此弹窗
-word: 标注单词
-wordtip: 标注选中的单词
-sentence: 摘录句子
-sentencetip: 摘录选中的句子
-twpub: TWPUB 书
-twpubtip: TWPUB 是一种基于 TiddlyWiki 的电子出版物
-importtwpub: 导入 TWPUB
-twpublibrary: TWPUB 书库
-twpublibrarytip: 可以用此插件库安装和更新TWPUB书。
-preview: 预览章节内容
+read: Lire
+annotate: Marquer
+close: Fermer
+closetip: Fermer popup
+word: Mot
+wordtip: Fluo
+sentence: Phrase
+sentencetip: Extrait
+twpub: Livre TWPUB
+twpubtip: TWPUB est format de livre électronique pour TiddlyWiki
+importtwpub: Importer TWPUB
+twpublibrary: Bibliothèque de TWPUB
+twpublibrarytip: Cette bibliothèque de plug-ins peut être utilisée pour installer et mettre à jour des livres TWPUB
+preview: Prévisualisation du contenu d'un chapitre
